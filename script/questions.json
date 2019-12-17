@@ -1,5 +1,225 @@
 [
     {
+        "question": "Si definisce embrionale il periodo che va",
+        "optionA": "Dal terzo mese di gestazione alla nascita",
+        "optionB": "Dalla fecondazione alla nascita",
+        "optionC": "Dalla seconda all’ottava settimana di gestazione",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Si definisce \"fetale\" il periodo che va",
+        "optionA": "dal terzo mese di gestazione alla nascita",
+        "optionB": "dalla seconda all'ottava settimana di gestazione",
+        "optionC": "dalla fecondazione alla nascita",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La formazione di nuove sinapsi",
+        "optionA": "Continua per tutta la vita",
+        "optionB": "È quasi conclusa nel periodo prenatale",
+        "optionC": "Prosegue per qualche anno dopo la nascita",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La mielinizzazione avviene",
+        "optionA": "nel periodo embrionale",
+        "optionB": "nel periodo fetale",
+        "optionC": "dopo la nascita",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Dopo la nascita, i collegamenti sinaptici tra i neuroni",
+        "optionA": "aumentano, ma vengono \"potati\" per eliminare quelli poco utilizzati",
+        "optionB": "diminuiscono, perché vengono \"potati\"",
+        "optionC": "proliferano senza controllo perché non vengono \"potati\"",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "I meccanismi alla base dei cambiamenti “in attesa di esperienza” sono",
+        "optionA": "Proliferazione delle sinapsi e migrazione",
+        "optionB": "Proliferazione delle sinapsi e potatura",
+        "optionC": "Proliferazione delle sinapsi e mielinizzazione",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "L’adattamento fisico e psichico all’ambiente circostante inizia",
+        "optionA": "Con il concepimento",
+        "optionB": "Con la fanciullezza",
+        "optionC": "Con la nascita",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La tecnica del parto \"senza violenza\" è stata messa a punto da",
+        "optionA": "Otto Rank",
+        "optionB": "T. Barry Brazelton",
+        "optionC": "Frederick Leboyer",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Quale di queste scale valuta le condizioni neurologiche del neonato?",
+        "optionA": "Marquis",
+        "optionB": "Brazelton",
+        "optionC": "Apgar",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il sonno nel neonato si distingue da quello dell’adulto",
+        "optionA": "Oltre che per il ritmo, anche per la qualità",
+        "optionB": "Solo per la qualità",
+        "optionC": "Solo per il ritmo",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La recente fioritura di ricerche psicologiche sui bambini piccolissimi è stata favorita",
+        "optionA": "dai moderni strumenti di registrazione del comportamento",
+        "optionB": "dai ritmi di sviluppo accelerati dei bambini di oggi",
+        "optionC": "sia dalle innovazioni metodologiche, sia dalla diffusione degli asili nido",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La situazione in cui il neonato è in grado di apprendere maggiormente è",
+        "optionA": "La veglia attiva",
+        "optionB": "La veglia inattiva",
+        "optionC": "Il pianto",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il bisogno di prevedibilità nel neonato è",
+        "optionA": "Di tipo sociale",
+        "optionB": "Di tipo cognitivo",
+        "optionC": "Di apprendimento di abilità",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Le stereotipie ritmiche (dondolarsi, scalciare) sono",
+        "optionA": "Segni di patologia in ogni fase dello sviluppo",
+        "optionB": "Segni di patologia nella prima infanzia, ma non nei periodi successivi",
+        "optionC": "Normali nella prima infanzia e segni di patologia se persistono anche dopo",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il rooting",
+        "optionA": "Si manifesta solo quando il neonato è sazio",
+        "optionB": "Non si manifesta facilmente se il neonato è sazio",
+        "optionC": "Si manifesta sempre",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Per lo studio della percezione degli infanti si possono utilizzare",
+        "optionA": "esclusivamente tecniche psicofisiologiche",
+        "optionB": "tecniche sia psicofisiologiche che comportamentali",
+        "optionC": "esclusivamente tecniche comportamentali",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "I neonati sono in grado di apprendere mediante quale forma di condizionamento?",
+        "optionA": "Solo mediante il condizionamento classico",
+        "optionB": "Sia mediante il condizionamento classico che operante",
+        "optionC": "Solo mediante il condizionamento operante",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Le capacità percettive presenti alla nascita sono",
+        "optionA": "simili a quelle degli adulti",
+        "optionB": "di gran lunga inferiori a quelle degli adulti",
+        "optionC": "più simili a quelle dei primati che a quelle degli adulti",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo il punto di vista innatista",
+        "optionA": "alla nascita la percezione è già organizzata",
+        "optionB": "alla nascita ci sono sensazioni caotiche",
+        "optionC": "alla nascita la percezione è già identica quella degli adulti",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La capacità di mettere in relazione informazioni ottenute attraverso organi di senso diversi",
+        "optionA": "compare nel primo anno di vita",
+        "optionB": "compare nel primo mese di vita",
+        "optionC": "è presente già alla nascita",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Nella prima infanzia, tra le capacità percettive e quelle motorie",
+        "optionA": "c'è uno sviluppo che va di pari passo",
+        "optionB": "c'è un notevole sfasamento nei tempi di sviluppo",
+        "optionC": "c'è un ritardo nello sviluppo percettivo rispetto a quello motorio",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il ruolo dell'ambiente nello sviluppo motorio è",
+        "optionA": "sempre determinante",
+        "optionB": "sempre irrilevante",
+        "optionC": "importante solo in casi di deprivazione",
+		"optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
         "question": "Secondo Piaget, nel periodo dai 7 agli 11 anni circa il bambino è in grado di compiere operazioni mentali",
         "optionA": "Su materiali concreti",
         "optionB": "Di vario tipo",
@@ -19,7 +239,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "L’accomodamento riguarda",
         "optionA": "Le relazioni tra un organismo e l’ambiente",
         "optionB": "L’azione dell’organismo sull’ambiente",
@@ -29,7 +249,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Secondo Piaget, in quale stadio viene raggiunta la permanenza dell’oggetto?",
         "optionA": "Al termine dello stadio preoperatorio (2-7 anni)",
         "optionB": "Nel VI stadio del periodo sensomotorio",
@@ -39,7 +259,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Le reazioni circolari secondarie compaiono",
         "optionA": "Nel II sottostadio del periodo sensomotorio",
         "optionB": "Nel III sottostadio del periodo sensomotorio",
@@ -49,7 +269,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "La coordinazione degli scemi secondari e la loro applicazione a situazioni nuove avviene",
         "optionA": "Tra i 4 e gli 8 mesi",
         "optionB": "Tra i 12 ed i 18 mesi",
@@ -59,7 +279,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Secondo Piaget, qual è la principale funzione dell’imitazione nella prima infanzia?",
         "optionA": "Produrre soluzioni in cui assimilazione ed accomodamento sono in equilibrio",
         "optionB": "Arricchire il patrimonio di schemi, tramite esempi “preconfezionati”",
@@ -69,7 +289,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Secondo il nativismo dello stato finale",
         "optionA": "Le nozioni che formano il cardine del pensiero umano sono innate nella loro versione adulta",
         "optionB": "Sono innate le versioni più primitive di queste nozioni con gli strumenti cognitivi per trasformarle con l’esperienza",
@@ -79,7 +299,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Le ricerche più recenti mostrano che le false credenze compaiono",
         "optionA": "Tra i 6 ed i 12 mesi",
         "optionB": "A 12 mesi",
@@ -89,7 +309,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "L’attenzione sostenuta è",
         "optionA": "La capacità di resistere agli stimoli che potrebbero distogliere da un compito in cui si è impegnati",
         "optionB": "La quantità di tempo in cui l’attenzione del bambino è sostenuta dall’adulto",
@@ -99,7 +319,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Alla nascita il bambino",
         "optionA": "Non ha in memoria esperienza alcuna",
         "optionB": "Ha già in memoria delle esperienze visive",
@@ -109,7 +329,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-		{
+    {
         "question": "L’imitazione differita è un indicatore",
         "optionA": "Della memoria di rievocazione",
         "optionB": "Di comportamenti spontanei del bambino",
@@ -119,7 +339,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-		{
+    {
         "question": "Quali elementi principali costituiscono il modello della memoria proposto da Atkinson è Shiffrin?",
         "optionA": "Magazzino sensoriale, magazzino a breve termine, magazzino a lungo termine",
         "optionB": "Registro sensoriale, magazzino a breve termine, magazzino a lungo termine",
@@ -129,7 +349,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-		{
+    {
         "question": "Nelle successive elaborazioni del modello Atkinson e Shiffrin, la MBT è stata sostituita con",
         "optionA": "L’esecutivo centrale",
         "optionB": "Il buffer episodico",
@@ -139,7 +359,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-		{
+    {
         "question": "Secondo gli psicologi dello sviluppo contemporanei, la capacità di categorizzare",
         "optionA": "È presenta già a 3 mesi",
         "optionB": "Compare a 9 mesi",
@@ -149,7 +369,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Secondo Robbie Case, nel primo sottostadio del periodo senso motorio, due “strutture di controllo esecutivo” possono essere coordinate dal bambino",
         "optionA": "Anche se è necessario spostare l’attenzione da un aspetto all’altro della situazione",
         "optionB": "Solo se basta prestare attenzione ad un solo aspetto della situazione",
@@ -159,7 +379,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "La capacità di usare categorie generali (come “animale”)",
         "optionA": "Non è presente nell’infanzia",
         "optionB": "Compare solo con l’acquisizione del linguaggio",
@@ -168,6 +388,65 @@
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
-    }  
+    },
+	{
+        "question": "Secondo Piaget, la ripetizione di un'azione originariamente eseguita per caso costituisce",
+        "optionA": "uno schema senso-motorio",
+        "optionB": "una reazione circolare",
+        "optionC": "un riflesso",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Secondo Piaget, la scoperta di mezzi nuovi mediante sperimentazione attiva caratterizza",
+        "optionA": "il quinto stadio senso- motorio (12-18 mesi)",
+        "optionB": "il secondo stadio senso-motorio (1-4 mesi)",
+        "optionC": "l'inizio dello stadio preoperatorio (verso i 2 anni)",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Secondo Piaget, gli schemi d'azione caratteristici del III stadio del periodo senso motorio sono",
+        "optionA": "schemi riflessi",
+        "optionB": "schemi secondari",
+        "optionC": "reazioni circolari",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Secondo Piaget, i giochi \"di finzione\"",
+        "optionA": "vengono appresi tramite imitazione e quindi compaiono dopo di essa",
+        "optionB": "si sviluppano di pari passo con l'imitazione differita, perché in entrambi si manifesta la funzione simbolica",
+        "optionC": "diversamente dall'imitazione, sono innati e quindi si manifestano molto prima",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Secondo il nativismo dello stato finale, le nozioni che formano il cardine del pensiero sono innate",
+        "optionA": "nella loro versione adulta",
+        "optionB": "in una versione primitiva",
+        "optionC": "in una versione quasi definitiva",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Secondo gli psicologi dello sviluppo contemporanei, la capacità di categorizzare",
+        "optionA": "è presente già a tre mesi",
+        "optionB": "compare a 9 mesi",
+        "optionC": "compare a 12 mesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    }
 ]
-
