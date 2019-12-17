@@ -448,5 +448,155 @@
         "optionE": "",
         "optionF": "",
         "correct": "optionA"
+    },
+	{
+        "question": "I fonemi sono",
+        "optionA": "parole",
+        "optionB": "unità minime prive di significato",
+        "optionC": "frasi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Nella controversia \"natura-cultura\" uno studioso che ha fermamente sostenuto il ruolo dell'apprendimento è",
+        "optionA": "Skinner",
+        "optionB": "Chomsky",
+        "optionC": "Vygotskij",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Dal punto di vista costruttivista, le abilità e le conoscenze linguistiche sono",
+        "optionA": "elaborate sulla base di altre conoscenze e abilità",
+        "optionB": "frutto di meccanismi maturativi",
+        "optionC": " innate",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Nel primo mese di vita i neonati riescono a emettere",
+        "optionA": "suoni linguistici",
+        "optionB": "vocali",
+        "optionC": "suoni riflessi e vegetativi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Il tratto vocale",
+        "optionA": "è già maturo alla nascita",
+        "optionB": "si modifica per dimensione e forma nel primo anno di vita",
+        "optionC": "si modifica nel primo anno di vita, ma solo per dimensione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Le prime sillabe o sequenze di sillabe che il bambino pronuncia verso i 7 mesi sono definite",
+        "optionA": "lallazione canonica",
+        "optionB": "lallazione variata",
+        "optionC": "suoni vegetativi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "I suoni e i gesti del bambino nei primi mesi sono",
+        "optionA": "suoni e gesti intenzionali",
+        "optionB": "pseudodialoghi",
+        "optionC": "comunicazioni preintenzionali",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "All' inizio del secondo anno di vita, i bambini spesso usano una singola parola al posto di un'intera frase; tale tipo di espressione viene definita",
+        "optionA": "protoparola",
+        "optionB": "olofrase",
+        "optionC": "pseudodialogo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Il \"motherese\" o \"baby talk\" (linguaggio delle mamme) è caratterizzato da",
+        "optionA": "pronuncia più chiara, pause brevi e riferimenti al passato",
+        "optionB": "pronuncia più chiara, pause brevi e domande frequenti",
+        "optionC": "pronuncia più chiara, poche domande e vocabolario molto ampio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Secondo Bruner, nell'acquisizione del linguaggio gli adulti",
+        "optionA": "fungono da sistema di supporto",
+        "optionB": "sono l'elemento chiave",
+        "optionC": "non svolgono alcuna funzione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Le protoparole sono",
+        "optionA": "sequenze di suoni che non corrispondono ad alcuna parola del linguaggio",
+        "optionB": "sequenze di suoni che, seppur con deformazioni, corrispondono alle parole del linguaggio",
+        "optionC": "le prime parole usate nella fase del lessico emergente",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Nello sviluppo iniziale del lessico, l'uso di un termine come \"cane\" per indicare altri quadrupedi è",
+        "optionA": "un fenomeno disadattivo piuttosto raro",
+        "optionB": "un caso particolare di sottoestensione",
+        "optionC": "un esempio tipico di sovraestensione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Per \"esplosione del vocabolario\" si intende",
+        "optionA": "la capacità del bambino di apprendere velocemente parole nuove all'ingresso a scuola",
+        "optionB": "la rapida acquisizione di nuove parole, che avviene verso i 18 mesi",
+        "optionC": "la dimenticanza traumatica e improvvisa di parole in precedenza note",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Verso i 18 mesi i bambini iniziano a pronunciare",
+        "optionA": "vere e proprie frasi",
+        "optionB": "due o tre parole di seguito",
+        "optionC": "parole complete, ma una sola per volta",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Alcuni studiosi ritengono che la memoria di lavoro possa influire sull'acquisizione del linguaggio",
+        "optionA": "grazie alla sua crescita progressiva",
+        "optionB": "per i suoi limiti",
+        "optionC": "sia attraverso la sua crescita che per i suoi limiti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
     }
 ]
