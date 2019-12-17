@@ -598,5 +598,396 @@
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
+    },
+	        {
+        "question": "Il periodo prelinguistico inizia con",
+        "optionA": "I suoni vegetativi",
+        "optionB": "Vocalizzazioni non di pianto",
+        "optionC": "La lallazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+        {
+        "question": "La lallazione variata comincia ",
+        "optionA": "Verso i 2 mesi",
+        "optionB": "Verso i 10-12 mesi",
+        "optionC": "Verso i 7 mesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+        {
+        "question": "Il coinvolgimento di un oggetto negli scambi con un’altra persona segna una tappa importante dello sviluppo, quale? ",
+        "optionA": "L’integrazione diadica e l’intersoggettività primaria",
+        "optionB": "La condivisione di argomenti ",
+        "optionC": "L’interazione triadica e l’intersoggettività secondaria ",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+        {
+        "question": "Le prime parole usate dai bambini ",
+        "optionA": "Si riferiscono a categorie di oggetti",
+        "optionB": "Fanno parte integrante delle azioni in corso",
+        "optionC": "Si riferiscono ad oggetti o situazioni non presenti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+        {
+        "question": "Nello sviluppo morfosintattico, quando i bambini cominciano a collegare una proposizione all’altra, compaiono prima ",
+        "optionA": "I nuclei frasali",
+        "optionB": "Le subordinate argomentali esplicite",
+        "optionC": "Le subordinate argomentali implicite",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+        {
+        "question": "Secondo i nativisti, nello sviluppo linguistico ",
+        "optionA": "Le abilità cognitive e sociali non sono determinanti",
+        "optionB": "Le integrazioni con gli adulti fin dalla nascita favoriscono l’acquisizione del linguaggio",
+        "optionC": "Solo le abilità cognitive sono fondamentali per l’elaborazione del linguaggio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+        {
+        "question": "Secondo Piaget, il linguaggio egocentrico comprende ",
+        "optionA": "Ecolalie e monologhi",
+        "optionB": "Preghiere",
+        "optionC": "L’informazione adattata",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+        {
+        "question": "Secondo Vygotskij, il linguaggio egocentrico ",
+        "optionA": "È un linguaggio per sé stesso",
+        "optionB": "Influisce sul comportamento dei bambini e svolge importanti funzioni",
+        "optionC": "È un monologo per la propria soddisfazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+        {
+        "question": "Studi recenti mostrano che l’amnesia infantile dipende ",
+        "optionA": "Dalla rimozione degli eventi che precedono ed accompagnano il superamento del complesso edipico",
+        "optionB": "Dal fatto che i ricordi nei primi anni di vita sono codificati in forma preverbale",
+        "optionC": "Da traumi avvenuti nei primi anni di vita",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "La prima distinzione proposta da W. James nello sviluppo del Sé riguardava",
+        "optionA": "il Sé ecologico e il Sé esteso",
+        "optionB": "il Sé esistenziale e il Sé categorico",
+        "optionC": "le funzioni di Io e Me",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Quale teoria dello sviluppo emotivo si fonde sulla distinzione tra emozioni fondamentali ed emozioni complesse?",
+        "optionA": "La teoria differenziale",
+        "optionB": "L'approccio neo-Piagetiano",
+        "optionC": "La teoria della differenziazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Quali dei seguenti meccanismi determinano risposte empatiche alla condizione altrui?",
+        "optionA": "Contagio, condizionamento operante, associazione a ciò che accade all'altro ed esperienza personale",
+        "optionB": "Contagio, condizionamento classico, immaginare di essere nei panni dell'altro",
+        "optionC": "Osservazione diretta, abituazione, condizionamento classico od operante",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "L'istanza psicologica che ci consente di integrare le nostre esperienze nei primi mesi di vita è",
+        "optionA": "il sé categorico",
+        "optionB": "il sé presimbolico",
+        "optionC": "l'Io agente",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Le emozioni cosiddette autocoscienti \"esposte\" sono",
+        "optionA": "imbarazzo, empatia e invidia",
+        "optionB": "imbarazzo, orgoglio e colpa",
+        "optionC": "imbarazzo, empatia e colpa",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Il primo indizio della consapevolezza di Sé è costituito dal riconoscimento",
+        "optionA": "della figura materna",
+        "optionB": "del proprio nome",
+        "optionC": "del proprio aspetto fisico",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Secondo Sroufe, le emozioni vere e proprie compaiono",
+        "optionA": "dopo i sei mesi",
+        "optionB": "nei primi due mesi",
+        "optionC": "verso i due anni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Sentimenti quali la vergogna o il senso di colpa sono suscitati",
+        "optionA": "dalla valutazione delle proprie azioni",
+        "optionB": "dall'attuazione di alcune azioni",
+        "optionC": "dalle punizioni subite",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Emozioni come l'imbarazzo o l'empatia sono state definite \"emozioni esposte\"perché",
+        "optionA": "quando le si prova è difficile nasconderle",
+        "optionB": "per provarle occorre rivolgere l'attenzione su se stessi",
+        "optionC": "sono emozioni che vengono condivise con altr",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "La capacità di autoregolazione delle emozioni",
+        "optionA": "è una capacità adulta, del tutto assente nei bambini",
+        "optionB": " migliora già nel primo anno di vita in parallelo con il controllo attivo suglistimoli",
+        "optionC": "inizia solo nel secondo anno di vita in parallelo con l'acquisizione dellinguaggio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Verso i 12 mesi, mediante il \"riferimento sociale\", le emozioni degli altri",
+        "optionA": "aiutano il bambino a regolarsi in situazioni incerte",
+        "optionB": "aiutano il bambino a calmarsi",
+        "optionC": "permettono al bambino di riflettere su se stesso",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "La forma più primitiva di condivisione di stati emotivi negli infanti",
+        "optionA": "la simpatia",
+        "optionB": "l'empatia",
+        "optionC": "il contagio emotivo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Secondo Thomas e Chess, i tre profili temperamentali più comuni sono quelli dei bambini",
+        "optionA": "\"piacevoli\", \"spiacevoli\", \"variabili\"",
+        "optionB": "\"ritmici\", \"ritrosi\", \"adattabili\"",
+        "optionC": "\"facili\", \"difficili\", \"lenti a scaldarsi\"",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Il concetto di compatibilità ( goodness of fit ) proposto da Chess e Thomas implica che",
+        "optionA": "tra il temperamento del bambino e i comportamenti dei genitori c'è una complessa catena di feedback reciproci",
+        "optionB": "sono i comportamenti dei genitori a determinare se il temperamento del bambino è accettabile",
+        "optionC": "per natura, il temperamento del bambino tende a piacere sempre ai suoi genitori",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": ""
+    },
+	{
+        "question": "Due dei criteri che permettono di considerare una caratteristica come \"temperamentale\" sono",
+        "optionA": "la comparsa tardiva e la corrispondenza nel mondo animale",
+        "optionB": "la comparsa precoce e la corrispondenza nel mondo animale",
+        "optionC": "la comparsa precoce e la completa differenza dal mondo animale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Secondo la teoria dell'apprendimento sociale la motivazione secondaria della \"dipendenza\" dalla madre",
+        "optionA": "non può essere generalizzata ad altre persone",
+        "optionB": "può essere estesa solo al padre",
+        "optionC": "può essere generalizzata ad altre persone che svolgono il ruolo di educatori",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Le ricerche di Harry Harlow si riferiscono",
+        "optionA": "alla capacità di problem solving",
+        "optionB": "alla deprivazione di cure materne",
+        "optionC": "allo studio dell'attaccamento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Gli studi effettuati da Bowlby riguardano",
+        "optionA": "il legame di attaccamento",
+        "optionB": "la relazione madre-bambino",
+        "optionC": "l'origine delle emozioni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Un attaccamento vero e proprio nei confronti della figura materna si forma",
+        "optionA": "fin dalla nascita",
+        "optionB": "nei primi 3 mesi",
+        "optionC": "dagli 8 mesi in poi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Nella prospettiva della teoria dell'attaccamento, pianto, sorriso e lallazione sono",
+        "optionA": "comportamenti di avvicinamento",
+        "optionB": "comportamenti di segnalazione",
+        "optionC": "comportamenti di attaccamento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "\"Comportamento di attaccamento\" è un'espressione",
+        "optionA": "teorica",
+        "optionB": "di senso comune",
+        "optionC": "osservativa",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Per modelli operativi interni (o working models ) Bowlby intende",
+        "optionA": "rappresentazioni mentali di sé e della figura di attaccamento e dellarelazione con essa",
+        "optionB": "emozioni relative a sé e alla figura di attaccamento e alla relazione con essa",
+        "optionC": "azioni e comportamenti tipici della figura di attaccamento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Mary Ainsworth è nota soprattutto per le sue ricerche riguardanti",
+        "optionA": "gli stili di interazione genitori-figli in famiglia",
+        "optionB": "la valutazione empirica dei tipi di attaccamento",
+        "optionC": "la deprivazione di cure materne nei primati",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Mary Ainsworth ha condotto delle ricerche mediante",
+        "optionA": "una procedura di osservazione sistematica denominata Strange Situation",
+        "optionB": "una procedura di osservazione libera",
+        "optionC": "l'esame del CBQ ( Children's Behavior Questionnaire )",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "I diversi tipi di attaccamento insicuro o disorganizzato sono causati da",
+        "optionA": "comportamenti inadeguati dei genitori",
+        "optionB": "comportamenti inadeguati della famiglia in tutte le sue componenti",
+        "optionC": "comportamenti inadeguati del caregiver primario",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Alan Sroufe ha riscontrato che i bambini con attaccamento evitante nella scuola materna",
+        "optionA": "sono impulsivi",
+        "optionB": "tendono a isolarsi",
+        "optionC": "sono passivi e bisognosi d'aiuto",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Secondo numerosi studi, un attaccamento positivo al padre",
+        "optionA": "va di pari passo con un attaccamento sicuro del bambino alla madre",
+        "optionB": "può formarsi solo nella media fanciullezza, poggiando sul rapporto originario tra il bambino e la madre",
+        "optionC": "va a scapito della sicurezza dell'attaccamento del bambino alla madre",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Le abilità cognitive e sociali necessarie per interagire con una certa facilità con un coetaneo familiare si formano",
+        "optionA": "tra i 2 e i 4 mesi",
+        "optionB": "tra i 9 e i 12 mesi",
+        "optionC": "dopo i 2-3 anni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "I giochi a due tra bambini che frequentano il nido si riscontrano comunemente",
+        "optionA": "nella seconda settimana di vita",
+        "optionB": "nel secondo mese di vita",
+        "optionC": "nel secondo anno di vita",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Secondo J. Langlois e L. Liben, i bambini che trascorrono molte ore al nido",
+        "optionA": "nel pomeriggio hanno più fame",
+        "optionB": "nel pomeriggio presentano un aumento dello stress",
+        "optionC": "manifestano un attaccamento maggiore alle educatrici",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
     }
+	
 ]
