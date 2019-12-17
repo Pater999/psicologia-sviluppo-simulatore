@@ -1,0 +1,173 @@
+[
+    {
+        "question": "Secondo Piaget, nel periodo dai 7 agli 11 anni circa il bambino è in grado di compiere operazioni mentali",
+        "optionA": "Su materiali concreti",
+        "optionB": "Di vario tipo",
+        "optionC": "Su dati astratti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Il periodo senso-motorio va",
+        "optionA": "Dai 2 ai 7 anni",
+        "optionB": "Dalla nascita ai 2 anni circa",
+        "optionC": "Dai 7 agli 11 anni circa",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "L’accomodamento riguarda",
+        "optionA": "Le relazioni tra un organismo e l’ambiente",
+        "optionB": "L’azione dell’organismo sull’ambiente",
+        "optionC": "L’azione con cui l’ambiente costringe l’organismo a modificare le azioni ad esso indirizzate",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Secondo Piaget, in quale stadio viene raggiunta la permanenza dell’oggetto?",
+        "optionA": "Al termine dello stadio preoperatorio (2-7 anni)",
+        "optionB": "Nel VI stadio del periodo sensomotorio",
+        "optionC": "Durante lo stadio operatorio concreto (7-11 anni)",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Le reazioni circolari secondarie compaiono",
+        "optionA": "Nel II sottostadio del periodo sensomotorio",
+        "optionB": "Nel III sottostadio del periodo sensomotorio",
+        "optionC": "Nel V sottostadio del periodo sensomotorio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "La coordinazione degli scemi secondari e la loro applicazione a situazioni nuove avviene",
+        "optionA": "Tra i 4 e gli 8 mesi",
+        "optionB": "Tra i 12 ed i 18 mesi",
+        "optionC": "Tra gli 8 ed i 12 mesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "Secondo Piaget, qual è la principale funzione dell’imitazione nella prima infanzia?",
+        "optionA": "Produrre soluzioni in cui assimilazione ed accomodamento sono in equilibrio",
+        "optionB": "Arricchire il patrimonio di schemi, tramite esempi “preconfezionati”",
+        "optionC": "Assicurare il consolidamento degli schemi che il bambino scopre",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "Secondo il nativismo dello stato finale",
+        "optionA": "Le nozioni che formano il cardine del pensiero umano sono innate nella loro versione adulta",
+        "optionB": "Sono innate le versioni più primitive di queste nozioni con gli strumenti cognitivi per trasformarle con l’esperienza",
+        "optionC": "Le nozioni del pensiero umano sono esclusivamente acquisite con l’esperienza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Le ricerche più recenti mostrano che le false credenze compaiono",
+        "optionA": "Tra i 6 ed i 12 mesi",
+        "optionB": "A 12 mesi",
+        "optionC": "A partire dai 15 mesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+	{
+        "question": "L’attenzione sostenuta è",
+        "optionA": "La capacità di resistere agli stimoli che potrebbero distogliere da un compito in cui si è impegnati",
+        "optionB": "La quantità di tempo in cui l’attenzione del bambino è sostenuta dall’adulto",
+        "optionC": "La quantità di dempo che i bambini dedicano alle caratteristiche superficiali di un oggetto",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Alla nascita il bambino",
+        "optionA": "Non ha in memoria esperienza alcuna",
+        "optionB": "Ha già in memoria delle esperienze visive",
+        "optionC": "Ha già in memoria delle esperienze uditive",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+		{
+        "question": "L’imitazione differita è un indicatore",
+        "optionA": "Della memoria di rievocazione",
+        "optionB": "Di comportamenti spontanei del bambino",
+        "optionC": "Della memoria a lungo termine",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+		{
+        "question": "Quali elementi principali costituiscono il modello della memoria proposto da Atkinson è Shiffrin?",
+        "optionA": "Magazzino sensoriale, magazzino a breve termine, magazzino a lungo termine",
+        "optionB": "Registro sensoriale, magazzino a breve termine, magazzino a lungo termine",
+        "optionC": "Registro sensoriale, memoria esplicita, memoria implicita",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+		{
+        "question": "Nelle successive elaborazioni del modello Atkinson e Shiffrin, la MBT è stata sostituita con",
+        "optionA": "L’esecutivo centrale",
+        "optionB": "Il buffer episodico",
+        "optionC": "La memoria di lavoro",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+		{
+        "question": "Secondo gli psicologi dello sviluppo contemporanei, la capacità di categorizzare",
+        "optionA": "È presenta già a 3 mesi",
+        "optionB": "Compare a 9 mesi",
+        "optionC": "Compare a 12 mesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+	{
+        "question": "Secondo Robbie Case, nel primo sottostadio del periodo senso motorio, due “strutture di controllo esecutivo” possono essere coordinate dal bambino",
+        "optionA": "Anche se è necessario spostare l’attenzione da un aspetto all’altro della situazione",
+        "optionB": "Solo se basta prestare attenzione ad un solo aspetto della situazione",
+        "optionC": "Solo se i vari aspetti della situazione sono dello stesso tipo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+	{
+        "question": "La capacità di usare categorie generali (come “animale”)",
+        "optionA": "Non è presente nell’infanzia",
+        "optionB": "Compare solo con l’acquisizione del linguaggio",
+        "optionC": "È precocemente presente nell’infanzia",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    }  
+]
+
