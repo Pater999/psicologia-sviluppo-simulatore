@@ -4,7 +4,7 @@
         "optionA": "Dal terzo mese di gestazione alla nascita",
         "optionB": "Dalla fecondazione alla nascita",
         "optionC": "Dalla seconda all’ottava settimana di gestazione",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -14,7 +14,7 @@
         "optionA": "dal terzo mese di gestazione alla nascita",
         "optionB": "dalla seconda all'ottava settimana di gestazione",
         "optionC": "dalla fecondazione alla nascita",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionA"
@@ -24,7 +24,7 @@
         "optionA": "Continua per tutta la vita",
         "optionB": "È quasi conclusa nel periodo prenatale",
         "optionC": "Prosegue per qualche anno dopo la nascita",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionA"
@@ -34,7 +34,7 @@
         "optionA": "nel periodo embrionale",
         "optionB": "nel periodo fetale",
         "optionC": "dopo la nascita",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -44,7 +44,7 @@
         "optionA": "aumentano, ma vengono \"potati\" per eliminare quelli poco utilizzati",
         "optionB": "diminuiscono, perché vengono \"potati\"",
         "optionC": "proliferano senza controllo perché non vengono \"potati\"",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionA"
@@ -54,7 +54,7 @@
         "optionA": "Proliferazione delle sinapsi e migrazione",
         "optionB": "Proliferazione delle sinapsi e potatura",
         "optionC": "Proliferazione delle sinapsi e mielinizzazione",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
@@ -64,7 +64,7 @@
         "optionA": "Con il concepimento",
         "optionB": "Con la fanciullezza",
         "optionC": "Con la nascita",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -74,7 +74,7 @@
         "optionA": "Otto Rank",
         "optionB": "T. Barry Brazelton",
         "optionC": "Frederick Leboyer",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -84,7 +84,7 @@
         "optionA": "Marquis",
         "optionB": "Brazelton",
         "optionC": "Apgar",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -94,7 +94,7 @@
         "optionA": "Oltre che per il ritmo, anche per la qualità",
         "optionB": "Solo per la qualità",
         "optionC": "Solo per il ritmo",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionA"
@@ -104,7 +104,7 @@
         "optionA": "dai moderni strumenti di registrazione del comportamento",
         "optionB": "dai ritmi di sviluppo accelerati dei bambini di oggi",
         "optionC": "sia dalle innovazioni metodologiche, sia dalla diffusione degli asili nido",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -114,7 +114,7 @@
         "optionA": "La veglia attiva",
         "optionB": "La veglia inattiva",
         "optionC": "Il pianto",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
@@ -124,7 +124,7 @@
         "optionA": "Di tipo sociale",
         "optionB": "Di tipo cognitivo",
         "optionC": "Di apprendimento di abilità",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
@@ -134,7 +134,7 @@
         "optionA": "Segni di patologia in ogni fase dello sviluppo",
         "optionB": "Segni di patologia nella prima infanzia, ma non nei periodi successivi",
         "optionC": "Normali nella prima infanzia e segni di patologia se persistono anche dopo",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -144,7 +144,7 @@
         "optionA": "Si manifesta solo quando il neonato è sazio",
         "optionB": "Non si manifesta facilmente se il neonato è sazio",
         "optionC": "Si manifesta sempre",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
@@ -154,7 +154,7 @@
         "optionA": "esclusivamente tecniche psicofisiologiche",
         "optionB": "tecniche sia psicofisiologiche che comportamentali",
         "optionC": "esclusivamente tecniche comportamentali",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
@@ -164,7 +164,7 @@
         "optionA": "Solo mediante il condizionamento classico",
         "optionB": "Sia mediante il condizionamento classico che operante",
         "optionC": "Solo mediante il condizionamento operante",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
@@ -174,7 +174,7 @@
         "optionA": "simili a quelle degli adulti",
         "optionB": "di gran lunga inferiori a quelle degli adulti",
         "optionC": "più simili a quelle dei primati che a quelle degli adulti",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionA"
@@ -184,7 +184,7 @@
         "optionA": "alla nascita la percezione è già organizzata",
         "optionB": "alla nascita ci sono sensazioni caotiche",
         "optionC": "alla nascita la percezione è già identica quella degli adulti",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionA"
@@ -194,7 +194,7 @@
         "optionA": "compare nel primo anno di vita",
         "optionB": "compare nel primo mese di vita",
         "optionC": "è presente già alla nascita",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -204,7 +204,7 @@
         "optionA": "c'è uno sviluppo che va di pari passo",
         "optionB": "c'è un notevole sfasamento nei tempi di sviluppo",
         "optionC": "c'è un ritardo nello sviluppo percettivo rispetto a quello motorio",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
@@ -214,7 +214,7 @@
         "optionA": "sempre determinante",
         "optionB": "sempre irrilevante",
         "optionC": "importante solo in casi di deprivazione",
-		"optionD": "",
+        "optionD": "",
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
@@ -389,7 +389,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Secondo Piaget, la ripetizione di un'azione originariamente eseguita per caso costituisce",
         "optionA": "uno schema senso-motorio",
         "optionB": "una reazione circolare",
@@ -399,7 +399,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Secondo Piaget, la scoperta di mezzi nuovi mediante sperimentazione attiva caratterizza",
         "optionA": "il quinto stadio senso- motorio (12-18 mesi)",
         "optionB": "il secondo stadio senso-motorio (1-4 mesi)",
@@ -409,7 +409,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Secondo Piaget, gli schemi d'azione caratteristici del III stadio del periodo senso motorio sono",
         "optionA": "schemi riflessi",
         "optionB": "schemi secondari",
@@ -419,7 +419,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Secondo Piaget, i giochi \"di finzione\"",
         "optionA": "vengono appresi tramite imitazione e quindi compaiono dopo di essa",
         "optionB": "si sviluppano di pari passo con l'imitazione differita, perché in entrambi si manifesta la funzione simbolica",
@@ -429,7 +429,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Secondo il nativismo dello stato finale, le nozioni che formano il cardine del pensiero sono innate",
         "optionA": "nella loro versione adulta",
         "optionB": "in una versione primitiva",
@@ -439,7 +439,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Secondo gli psicologi dello sviluppo contemporanei, la capacità di categorizzare",
         "optionA": "è presente già a tre mesi",
         "optionB": "compare a 9 mesi",
@@ -449,7 +449,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "I fonemi sono",
         "optionA": "parole",
         "optionB": "unità minime prive di significato",
@@ -459,7 +459,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Nella controversia \"natura-cultura\" uno studioso che ha fermamente sostenuto il ruolo dell'apprendimento è",
         "optionA": "Skinner",
         "optionB": "Chomsky",
@@ -469,7 +469,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Dal punto di vista costruttivista, le abilità e le conoscenze linguistiche sono",
         "optionA": "elaborate sulla base di altre conoscenze e abilità",
         "optionB": "frutto di meccanismi maturativi",
@@ -479,7 +479,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Nel primo mese di vita i neonati riescono a emettere",
         "optionA": "suoni linguistici",
         "optionB": "vocali",
@@ -489,7 +489,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Il tratto vocale",
         "optionA": "è già maturo alla nascita",
         "optionB": "si modifica per dimensione e forma nel primo anno di vita",
@@ -499,7 +499,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Le prime sillabe o sequenze di sillabe che il bambino pronuncia verso i 7 mesi sono definite",
         "optionA": "lallazione canonica",
         "optionB": "lallazione variata",
@@ -509,7 +509,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "I suoni e i gesti del bambino nei primi mesi sono",
         "optionA": "suoni e gesti intenzionali",
         "optionB": "pseudodialoghi",
@@ -519,7 +519,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "All' inizio del secondo anno di vita, i bambini spesso usano una singola parola al posto di un'intera frase; tale tipo di espressione viene definita",
         "optionA": "protoparola",
         "optionB": "olofrase",
@@ -529,7 +529,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Il \"motherese\" o \"baby talk\" (linguaggio delle mamme) è caratterizzato da",
         "optionA": "pronuncia più chiara, pause brevi e riferimenti al passato",
         "optionB": "pronuncia più chiara, pause brevi e domande frequenti",
@@ -539,7 +539,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Secondo Bruner, nell'acquisizione del linguaggio gli adulti",
         "optionA": "fungono da sistema di supporto",
         "optionB": "sono l'elemento chiave",
@@ -549,7 +549,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Le protoparole sono",
         "optionA": "sequenze di suoni che non corrispondono ad alcuna parola del linguaggio",
         "optionB": "sequenze di suoni che, seppur con deformazioni, corrispondono alle parole del linguaggio",
@@ -559,7 +559,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Nello sviluppo iniziale del lessico, l'uso di un termine come \"cane\" per indicare altri quadrupedi è",
         "optionA": "un fenomeno disadattivo piuttosto raro",
         "optionB": "un caso particolare di sottoestensione",
@@ -569,7 +569,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Per \"esplosione del vocabolario\" si intende",
         "optionA": "la capacità del bambino di apprendere velocemente parole nuove all'ingresso a scuola",
         "optionB": "la rapida acquisizione di nuove parole, che avviene verso i 18 mesi",
@@ -579,7 +579,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Verso i 18 mesi i bambini iniziano a pronunciare",
         "optionA": "vere e proprie frasi",
         "optionB": "due o tre parole di seguito",
@@ -589,7 +589,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Alcuni studiosi ritengono che la memoria di lavoro possa influire sull'acquisizione del linguaggio",
         "optionA": "grazie alla sua crescita progressiva",
         "optionB": "per i suoi limiti",
@@ -599,7 +599,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	        {
+    {
         "question": "Il periodo prelinguistico inizia con",
         "optionA": "I suoni vegetativi",
         "optionB": "Vocalizzazioni non di pianto",
@@ -609,7 +609,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-        {
+    {
         "question": "La lallazione variata comincia ",
         "optionA": "Verso i 2 mesi",
         "optionB": "Verso i 10-12 mesi",
@@ -619,7 +619,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-        {
+    {
         "question": "Il coinvolgimento di un oggetto negli scambi con un’altra persona segna una tappa importante dello sviluppo, quale? ",
         "optionA": "L’integrazione diadica e l’intersoggettività primaria",
         "optionB": "La condivisione di argomenti ",
@@ -629,7 +629,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-        {
+    {
         "question": "Le prime parole usate dai bambini ",
         "optionA": "Si riferiscono a categorie di oggetti",
         "optionB": "Fanno parte integrante delle azioni in corso",
@@ -639,7 +639,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-        {
+    {
         "question": "Nello sviluppo morfosintattico, quando i bambini cominciano a collegare una proposizione all’altra, compaiono prima ",
         "optionA": "I nuclei frasali",
         "optionB": "Le subordinate argomentali esplicite",
@@ -649,7 +649,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-        {
+    {
         "question": "Secondo i nativisti, nello sviluppo linguistico ",
         "optionA": "Le abilità cognitive e sociali non sono determinanti",
         "optionB": "Le integrazioni con gli adulti fin dalla nascita favoriscono l’acquisizione del linguaggio",
@@ -659,7 +659,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-        {
+    {
         "question": "Secondo Piaget, il linguaggio egocentrico comprende ",
         "optionA": "Ecolalie e monologhi",
         "optionB": "Preghiere",
@@ -669,7 +669,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-        {
+    {
         "question": "Secondo Vygotskij, il linguaggio egocentrico ",
         "optionA": "È un linguaggio per sé stesso",
         "optionB": "Influisce sul comportamento dei bambini e svolge importanti funzioni",
@@ -679,7 +679,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-        {
+    {
         "question": "Studi recenti mostrano che l’amnesia infantile dipende ",
         "optionA": "Dalla rimozione degli eventi che precedono ed accompagnano il superamento del complesso edipico",
         "optionB": "Dal fatto che i ricordi nei primi anni di vita sono codificati in forma preverbale",
@@ -689,7 +689,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "La prima distinzione proposta da W. James nello sviluppo del Sé riguardava",
         "optionA": "il Sé ecologico e il Sé esteso",
         "optionB": "il Sé esistenziale e il Sé categorico",
@@ -699,7 +699,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Quale teoria dello sviluppo emotivo si fonde sulla distinzione tra emozioni fondamentali ed emozioni complesse?",
         "optionA": "La teoria differenziale",
         "optionB": "L'approccio neo-Piagetiano",
@@ -709,7 +709,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Quali dei seguenti meccanismi determinano risposte empatiche alla condizione altrui?",
         "optionA": "Contagio, condizionamento operante, associazione a ciò che accade all'altro ed esperienza personale",
         "optionB": "Contagio, condizionamento classico, immaginare di essere nei panni dell'altro",
@@ -719,7 +719,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "L'istanza psicologica che ci consente di integrare le nostre esperienze nei primi mesi di vita è",
         "optionA": "il sé categorico",
         "optionB": "il sé presimbolico",
@@ -729,7 +729,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Le emozioni cosiddette autocoscienti \"esposte\" sono",
         "optionA": "imbarazzo, empatia e invidia",
         "optionB": "imbarazzo, orgoglio e colpa",
@@ -739,7 +739,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Il primo indizio della consapevolezza di Sé è costituito dal riconoscimento",
         "optionA": "della figura materna",
         "optionB": "del proprio nome",
@@ -749,7 +749,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Secondo Sroufe, le emozioni vere e proprie compaiono",
         "optionA": "dopo i sei mesi",
         "optionB": "nei primi due mesi",
@@ -759,7 +759,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Sentimenti quali la vergogna o il senso di colpa sono suscitati",
         "optionA": "dalla valutazione delle proprie azioni",
         "optionB": "dall'attuazione di alcune azioni",
@@ -769,7 +769,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Emozioni come l'imbarazzo o l'empatia sono state definite \"emozioni esposte\"perché",
         "optionA": "quando le si prova è difficile nasconderle",
         "optionB": "per provarle occorre rivolgere l'attenzione su se stessi",
@@ -779,7 +779,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "La capacità di autoregolazione delle emozioni",
         "optionA": "è una capacità adulta, del tutto assente nei bambini",
         "optionB": " migliora già nel primo anno di vita in parallelo con il controllo attivo suglistimoli",
@@ -789,7 +789,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Verso i 12 mesi, mediante il \"riferimento sociale\", le emozioni degli altri",
         "optionA": "aiutano il bambino a regolarsi in situazioni incerte",
         "optionB": "aiutano il bambino a calmarsi",
@@ -799,7 +799,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "La forma più primitiva di condivisione di stati emotivi negli infanti",
         "optionA": "la simpatia",
         "optionB": "l'empatia",
@@ -809,7 +809,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Secondo Thomas e Chess, i tre profili temperamentali più comuni sono quelli dei bambini",
         "optionA": "\"piacevoli\", \"spiacevoli\", \"variabili\"",
         "optionB": "\"ritmici\", \"ritrosi\", \"adattabili\"",
@@ -819,7 +819,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Il concetto di compatibilità ( goodness of fit ) proposto da Chess e Thomas implica che",
         "optionA": "tra il temperamento del bambino e i comportamenti dei genitori c'è una complessa catena di feedback reciproci",
         "optionB": "sono i comportamenti dei genitori a determinare se il temperamento del bambino è accettabile",
@@ -829,7 +829,7 @@
         "optionF": "",
         "correct": ""
     },
-	{
+    {
         "question": "Due dei criteri che permettono di considerare una caratteristica come \"temperamentale\" sono",
         "optionA": "la comparsa tardiva e la corrispondenza nel mondo animale",
         "optionB": "la comparsa precoce e la corrispondenza nel mondo animale",
@@ -839,7 +839,87 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
+        "question": "L’autostima genuina, individuata dalla Harter, è basata ",
+        "optionA": "Sull’approvazione degli altri",
+        "optionB": "Sul riconoscimento dei propri punti di forza e debolezza",
+        "optionC": "Su qualità che non si possiedono",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il bisogno di controllo, che compare a 18 mesi, deriva dalla combinazione di quali bisogni basilari?",
+        "optionA": "Prevedibilità ed accettazione",
+        "optionB": "Prevedibilità e competenza",
+        "optionC": "Accettazione e competenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il sorriso sociale compare ",
+        "optionA": "Alla nascita",
+        "optionB": "Tra il secondo ed il terzo mese",
+        "optionC": "Verso il primo mese di vita",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Le emozioni influiscono ",
+        "optionA": "Solo sui comportamenti",
+        "optionB": "Solo sui processi cognitivi e sulle persone che le osservano",
+        "optionC": "Sia sui comportamenti che sui processi cognitivi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "L’angoscia da separazione ",
+        "optionA": "È il dispiacere che il bambino prova quando si allontana dalla figura di attaccamento",
+        "optionB": "Svolge una funzione adattativa",
+        "optionC": "È una manifestazione emotiva di paura che non fa parte del normale sviluppo del bambino",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Emozioni come imbarazzo o empatia sono state definite “emozioni esposte” perché ",
+        "optionA": "Quando le si prova è difficile nasconderle",
+        "optionB": "Per provarle occorre rivolgere l’attenzione su sé stessi",
+        "optionC": "Sono emozioni che vengono condivise con altri",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Durante il primo anno di vita il bambino ",
+        "optionA": "È in grado di regolare l’intensità delle proprie emozioni",
+        "optionB": "Necessita dell’intervento dei genitori per regolare l’intensità delle proprie emozioni",
+        "optionC": "Necessita dell’intervento dei genitori solo per la regolazione delle emozioni spiacevoli",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il concetto di efforful control (controllo volontario) è strato introdotto da ",
+        "optionA": "Chess e Thomas",
+        "optionB": "Rothbart",
+        "optionC": "Zentner e Bates",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
         "question": "Secondo la teoria dell'apprendimento sociale la motivazione secondaria della \"dipendenza\" dalla madre",
         "optionA": "non può essere generalizzata ad altre persone",
         "optionB": "può essere estesa solo al padre",
@@ -849,7 +929,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Le ricerche di Harry Harlow si riferiscono",
         "optionA": "alla capacità di problem solving",
         "optionB": "alla deprivazione di cure materne",
@@ -859,7 +939,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Gli studi effettuati da Bowlby riguardano",
         "optionA": "il legame di attaccamento",
         "optionB": "la relazione madre-bambino",
@@ -869,7 +949,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Un attaccamento vero e proprio nei confronti della figura materna si forma",
         "optionA": "fin dalla nascita",
         "optionB": "nei primi 3 mesi",
@@ -879,7 +959,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Nella prospettiva della teoria dell'attaccamento, pianto, sorriso e lallazione sono",
         "optionA": "comportamenti di avvicinamento",
         "optionB": "comportamenti di segnalazione",
@@ -889,7 +969,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "\"Comportamento di attaccamento\" è un'espressione",
         "optionA": "teorica",
         "optionB": "di senso comune",
@@ -899,7 +979,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Per modelli operativi interni (o working models ) Bowlby intende",
         "optionA": "rappresentazioni mentali di sé e della figura di attaccamento e dellarelazione con essa",
         "optionB": "emozioni relative a sé e alla figura di attaccamento e alla relazione con essa",
@@ -909,7 +989,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Mary Ainsworth è nota soprattutto per le sue ricerche riguardanti",
         "optionA": "gli stili di interazione genitori-figli in famiglia",
         "optionB": "la valutazione empirica dei tipi di attaccamento",
@@ -919,7 +999,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Mary Ainsworth ha condotto delle ricerche mediante",
         "optionA": "una procedura di osservazione sistematica denominata Strange Situation",
         "optionB": "una procedura di osservazione libera",
@@ -929,7 +1009,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "I diversi tipi di attaccamento insicuro o disorganizzato sono causati da",
         "optionA": "comportamenti inadeguati dei genitori",
         "optionB": "comportamenti inadeguati della famiglia in tutte le sue componenti",
@@ -939,7 +1019,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Alan Sroufe ha riscontrato che i bambini con attaccamento evitante nella scuola materna",
         "optionA": "sono impulsivi",
         "optionB": "tendono a isolarsi",
@@ -949,7 +1029,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "Secondo numerosi studi, un attaccamento positivo al padre",
         "optionA": "va di pari passo con un attaccamento sicuro del bambino alla madre",
         "optionB": "può formarsi solo nella media fanciullezza, poggiando sul rapporto originario tra il bambino e la madre",
@@ -959,7 +1039,7 @@
         "optionF": "",
         "correct": "optionA"
     },
-	{
+    {
         "question": "Le abilità cognitive e sociali necessarie per interagire con una certa facilità con un coetaneo familiare si formano",
         "optionA": "tra i 2 e i 4 mesi",
         "optionB": "tra i 9 e i 12 mesi",
@@ -969,7 +1049,7 @@
         "optionF": "",
         "correct": "optionB"
     },
-	{
+    {
         "question": "I giochi a due tra bambini che frequentano il nido si riscontrano comunemente",
         "optionA": "nella seconda settimana di vita",
         "optionB": "nel secondo mese di vita",
@@ -979,7 +1059,7 @@
         "optionF": "",
         "correct": "optionC"
     },
-	{
+    {
         "question": "Secondo J. Langlois e L. Liben, i bambini che trascorrono molte ore al nido",
         "optionA": "nel pomeriggio hanno più fame",
         "optionB": "nel pomeriggio presentano un aumento dello stress",
@@ -988,6 +1068,85 @@
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
+    },
+    {
+        "question": "Le ricerche di Harry Harlow si riferiscono ",
+        "optionA": "Alla capacità di problem solving",
+        "optionB": "Alla deprivazione di cure materne",
+        "optionC": "Allo studio dell’attaccamento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "“sistema comportamentale dell’attaccamento” è un’espressione",
+        "optionA": "osservativa",
+        "optionB": "teorica",
+        "optionC": "di senso comune",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "La stabilità dell’attaccamento ",
+        "optionA": "È influenzata dal sesso del bambino",
+        "optionB": "Varia a seconda dell’età in cui l’attaccamento è stato misurato la prima volta e dalla distanza tra le due misurazioni",
+        "optionC": "È minore se l’intervallo tra le due misurazioni è inferiore ai due anni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Alan Sroufe ha riscontrato che i bambini con attaccamento ambivalente nella scuola d’infanzia ",
+        "optionA": "sono impulsivi",
+        "optionB": "tendono ad isolarsi",
+        "optionC": "sono ostili e poco socievoli",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Una positiva relazione tra bambino e padre ",
+        "optionA": "Poggia esclusivamente sul rapporto originario tra madre e bambino",
+        "optionB": "Si forma solo in un secondo momento",
+        "optionC": "Non si poggia sul rapporto originario madre-bambino",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il lavoro materno può influire negativamente sullo sviluppo cognitivo del bambino ",
+        "optionA": "mai",
+        "optionB": "solo se la madre lavora a tempo pieno durante il primo anno di vita",
+        "optionC": "soprattutto nel secondo e terzo anno di vita",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "La frequenza del nido da parte dei bimbi ",
+        "optionA": "Intacca lo sviluppo linguistico e cognitivo",
+        "optionB": "Aiuta a compensare lo svantaggio culturale di quelli che provengono da ambienti deprivati",
+        "optionC": "Deve essere considerata come una scelta di ripiego quando la madre lavora",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il bambino inizia a coordinare le proprie azioni con quelle di un coetaneo ",
+        "optionA": "Verso la fine del primo anno",
+        "optionB": "Verso i 18 mesi",
+        "optionC": "Dai 14 mesi in poi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
     }
-	
 ]
