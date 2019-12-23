@@ -1148,5 +1148,216 @@
         "optionE": "",
         "optionF": "",
         "correct": "optionC"
+    },
+    {
+        "question": "Per Piaget la prima fanciullezza coincide con",
+        "optionA": "il periodo sensomotorio",
+        "optionB": "la reversibilità del pensiero",
+        "optionC": "il periodo del pensiero preoperatorio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo Vygotskij, il linguaggio \"egocentrico\" serve al bambino",
+        "optionA": "a comprende meglio la situazione che ha di fronte, e pianificare il proprio comportamento",
+        "optionB": "a provare soddisfazione nel parlare ad alta voce",
+        "optionC": "a comunicare con gli altri, anche se in modo inefficiente",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Le madri che utilizzano uno stile elaborativo nell'interagire con le rievocazioni di episodi da parte dei loro bambini",
+        "optionA": "favoriscono le abilità sottostanti alla memoria autobiografica",
+        "optionB": "minano le abilità sottostanti alla memoria autobiografica",
+        "optionC": "favoriscono abilità che nulla hanno a che fare con la memoria autobiografica",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per \"esplosione della grammatica\" nei bambini di 2-3 anni si intende",
+        "optionA": "l'aumento del numero di parole",
+        "optionB": "l'aumento della complessità degli enunciati",
+        "optionC": "la mancanza dicoerenza grammaticale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Nella prima fanciullezza il gioco simbolico diviene",
+        "optionA": "più decentrato e più decontestualizzato",
+        "optionB": "più decentrato e più ancorato al contesto",
+        "optionC": "più concentrato e più ancorato al contesto",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per \"omino testone\" si intende",
+        "optionA": "il punto d'arrivo della rappresentazione della figura umana, con una testa ricca di dettagli",
+        "optionB": "una raffigurazione primitiva della figura umana composta da testae arti",
+        "optionC": "un gioco sociodrammatico in cui i bambini a turno fingono di essere un personaggio stupido",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Piaget, i bambini in età prescolare ragionano sulla base di",
+        "optionA": "pregiudizi o stereotipi",
+        "optionB": "preconcetti o infraconcetti",
+        "optionC": "operazioni di classificazione o seriazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Nei compiti di classificazione di oggetti ideati da Piaget, i bambini sotto i 5 anni",
+        "optionA": "costruiscono collezioni figurali o tematiche, anziché autentiche classi",
+        "optionB": "formano sia classi che collezioni figurali o tematiche",
+        "optionC": "raggruppano gli oggetti in classi, mettendo vicini quelli che condividono le stesse proprietà",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per compiere correttamente un'operazione di seriazione (ad esempio, per riordinare bastoncini di diversa lunghezza) è necessario effettuare",
+        "optionA": "un confronto per volta",
+        "optionB": "un unico confronto globale",
+        "optionC": "confronti multipli",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo Piaget, l'egocentrismo intellettuale è",
+        "optionA": "la tendenza del bambino a prendere il proprio punto di vista come assoluto",
+        "optionB": "la tendenza dell'adolescente a ragionare in modo assolutistico",
+        "optionC": "la tendenza dell'infante a non differenziare tra sé e la realtà esterna",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per animismo Piaget intende la tendenza a",
+        "optionA": "attribuire agli oggetti fisici alcuni caratteri utili alla vita umana",
+        "optionB": "considerare le cose come il prodotto dell'attività umana",
+        "optionC": "considerare le cose come vive e dotate di intenzione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo gli studiosi che hanno criticato Piaget, le prestazioni inadeguate dei bambini di età prescolare nei compiti piagetiani possono essere dovute",
+        "optionA": "esclusivamente a mancanza di competenza",
+        "optionB": "a difficoltà nel focalizzare l'attenzione",
+        "optionC": "alla mancanza di informazioni scolastiche difficoltà nel focalizzare l'attenzione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Susan Carey, i bambini alla nascita",
+        "optionA": "possiedono già alcune teorie rudimentali",
+        "optionB": "non possiedono alcuna teoria",
+        "optionC": "possiedono alcune teorie già formate",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Le generalizzazioni empiriche si differenziano dalle teorie perché",
+        "optionA": "sono costituite da formulazioni di tipo generale",
+        "optionB": "si basano su processi dominio-specifici",
+        "optionC": "si riferiscono a entità e processi visibili",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La teoria della mente dei bambini di due anni ha come fulcro la nozione di",
+        "optionA": "desiderio",
+        "optionB": "credenza",
+        "optionC": "intenzione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Lo sviluppo della biologia ingenua avviene grazie",
+        "optionA": "esclusivamente a conoscenze dominio specifiche",
+        "optionB": "esclusivamente a processi generali per dominio",
+        "optionC": "sia a conoscenze dominio-specifiche che a processi generali per dominio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "In base alle ricerche di Corrigan e Harris sulla \"fiducia, epistemica\" i bambini di 4-5 anni",
+        "optionA": "credono sempre a chi gode della loro fiducia interpersonale, qualsiasi cosa dicano",
+        "optionB": "Pongono attenzione all'accuratezza delle informazioni, più che alla fiducia interpersonale nella fonte",
+        "optionC": "Per accettare un'informazione devono riporre sia fiducia epistemica che fiducia interpersonale nella fonte",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Per Piaget la prima fanciullezza coincide con",
+        "optionA": "il periodo sensomotorio",
+        "optionB": "la reversibilità del pensiero",
+        "optionC": "il periodo del pensiero preoperatorio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Nel secondo stadio dello sviluppo del gioco simbolico (schemi auto simbolici),",
+        "optionA": "Si può osservare un uso ritualizzato di azioni quotidiane fuori dal contesto abituale",
+        "optionB": "Il bambino manifesta consapevolezza circa la finzione",
+        "optionC": "Il bambino applica ad altri gli schemi simbolici che conosce",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "I compiti di classificazione moltiplicativa richiedono di",
+        "optionA": "Confrontare una classe di oggetti con un'altra, in essa inclusa",
+        "optionB": "Identificare, tra un insieme di oggetti eterogenei, quello che può essere collocato nell’intersezione tra due file di oggetti.",
+        "optionC": "",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Nei bambini la conoscenza delle false credenze è presente",
+        "optionA": "Solo a partire dai 4 anni d’età",
+        "optionB": "A partire dai 15 mesi",
+        "optionC": "Verso i 2 anni d’età",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
     }
+
 ]
