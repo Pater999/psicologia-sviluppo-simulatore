@@ -1358,6 +1358,252 @@
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
+    },
+    {
+        "question": "Secondo Harter, quando parlano di sé, i bambini tra i 3 e i 6 anni solitamente",
+        "optionA": "descrivono le proprie preferenze o abilità anche in termini astratti",
+        "optionB": "enfatizzano le proprie caratteristiche positive e tralasciano quelle negative",
+        "optionC": "esprimono le proprie emozioni ma non le proprie idee",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Per \"teoria,incrementale\" Carol Dweck intende",
+        "optionA": "una teoria ingenua sul funzionamento di Sé secondo cui le potenzialità delle persone sono immodificabili",
+        "optionB": "una teoria ingenua dello sviluppo secondo cui con la crescita si migliora sempre",
+        "optionC": "una teoria ingenua sul funzionamento di Sé secondo cui le persone possono modificare le proprie potenzialità",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La capacità di nutrire dei sentimenti di autostima è resa possibile",
+        "optionA": "dalla rappresentazione di sé",
+        "optionB": "dalla rappresentazione della figura materna",
+        "optionC": "dalla verbalizzazione dei propri sentimenti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Il senso di colpa predisposizionale è caratterizzato dalla tendenza a",
+        "optionA": "provare sensi di colpa in circostanze specifiche e appropriate",
+        "optionB": "provare sensi di colpa indipendentemente dalle circostanze",
+        "optionC": "attribuire agli altri delle colpe indipendentemente dalle circostanze",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo gli studi più recenti, la vergogna differisce dal senso di colpa perché",
+        "optionA": "implica una valutazione negativa della cattiva azione compiuta e non di se stessi",
+        "optionB": "favorisce lo sviluppo morale quando l'individuo la prova con particolare intensità",
+        "optionC": "implica una valutazione negativa di se stessi, e non solo della cattiva azione compiuta",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Nello sviluppo delle conoscenza emotiva, studiata con il test TEC di Pons ed Harris, le conoscenze più tardive sono quelle riguardanti",
+        "optionA": "il ruolo della morale e le differenze tra emozioni provate e manifestate",
+        "optionB": "la regolazione emotiva e le emozioni miste",
+        "optionC": "l'influenza dei ricordi e il ruolo delle credenze",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Le \"regole di esibizione\" delle emozioni stabiliscono",
+        "optionA": "quali sono gli stati d'animo da manifestare in una data situazione e verso date persone",
+        "optionB": "quali sono i comportamenti che i bambini devono saper inibire a ciascuna età",
+        "optionC": "quali sono i modelli che gli adulti devono presentare ai bambini in una data situazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Tra i mezzi di regolazione emotiva di cui dispongono i bambini dai 3 ai 6 anni, troviamo",
+        "optionA": "l'ampliamento degli input, la richiesta esplicita di conforto, il gioco",
+        "optionB": "la restrizione degli input, la richiesta esplicita di conforto, il gioco",
+        "optionC": "la restrizione degli input, la richiesta implicita di conforto,l'imitazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Piaget, una delle funzioni emotive del gioco simbolico è",
+        "optionA": "la possibilità di compensare la realtà con la fantasia",
+        "optionB": "l'imitazione di ruoli adulti",
+        "optionC": "la soluzione di problemi mediante adattamento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "L'idea che la moralità umana derivi da tendenze innateL'idea che la moralità umana derivi da tendenze innate",
+        "optionA": "è tipica degli empiristi come Locke",
+        "optionB": "caratterizza la tradizione razionalista che culmina nel pensiero di Kant",
+        "optionC": "non ha avuto alcun sostegno nel pensiero filosofico",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Quali dei seguenti studiosi si è occupato in modo particolare della prosocialità?",
+        "optionA": "René Spitz",
+        "optionB": "Erik Erikson",
+        "optionC": "Nancy Eisenberg",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Un intervento disciplinare basato sull'induzione ha l'effetto di",
+        "optionA": "indurre l'obbedienza basata sulla paura",
+        "optionB": "suscitare ansia nei bambini",
+        "optionC": "suscitare dispiacere empatico",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo Grazina Kochanska, ai fini dell'immagine morale di sé",
+        "optionA": "l'obbedienza coinvolta non ha alcuna importanza se non si traduce in obbedienza situazionale",
+        "optionB": "l'obbedienza situazionale e coinvolta sono altrettanto utili",
+        "optionC": "l'obbedienza coinvolta implica una maggiore ricchezza di attributi morali",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Di quale tipo di comportamento sono indici, secondo Bandura, il \"confronto, vantaggioso\" e \"l'etichettamento eufemistico\"?",
+        "optionA": "Pregiudizio sociale",
+        "optionB": "Disimpegno morale",
+        "optionC": "Truffa commerciale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Piaget, per i bambini di 8 anni la bugia è",
+        "optionA": "un errore involontario",
+        "optionB": "un'affermazione falsa intenzionale",
+        "optionC": "una parola cattiva",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Una delle conquiste mature dello sviluppo morale è",
+        "optionA": "l'autocontrollo, che permette di attenersi a regole morali senza supervisione esterna",
+        "optionB": "l'obbedienza, che permette il riconoscimento dell'autorità",
+        "optionC": "l'acquisizione di buone abitudini, che permettono di agire correttamente",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Piaget identifica due forme di moralità, che compaiono in successione nel corso dello sviluppo",
+        "optionA": "retributiva e distributiva",
+        "optionB": "autonomia immorale e autonomia morale",
+        "optionC": "eteronoma e autonoma",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La rappresentazione di sé che il bambino mostra di avere nella prima fanciullezza ",
+        "optionA": "È solo un insieme di attributi",
+        "optionB": "Comincia ad avere una continuità nel tempo",
+        "optionC": "si basa solo sull'aspetto fisico",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "La visione di sé irrealisticamente positiva che caratterizza la prima fanciullezza dipende",
+        "optionA": "Dal fatto che i bambini valutano le proprie prestazioni confrontandole con quelle passate",
+        "optionB": "Del fatto che i bambini valutano le proprie prestazioni confrontandole con quelle degli altri",
+        "optionC": "c.\tEsclusivamente dal fatto che gli altri significativi sostengono il bambino",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La moralità è fondata",
+        "optionA": "Eslcusivamente sell'empatia",
+        "optionB": "Sulla nozione e sul senso di giustizia, su un’innata predisposizione alla cooperazione e sull’empatia",
+        "optionC": "Sulla necessità di ridurre la propria sofferenza empatica",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+
+    {
+        "question": "L'obbedienza convinta",
+        "optionA": "È tenuta viva dalla madre, che deve controllare il bambino perché porti a termine l’azione richiesta",
+        "optionB": "È connessa ad un attaccamento sicuro, che induce il bambino ad accettare volentieri le richieste della madre",
+        "optionC": "Implica la reale convinzione del bambino su ciò che la madre gli chiede di fare",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+
+    {
+        "question": "Per Piaget, la giustizia retributiva",
+        "optionA": "È relativa al rapporto tra colpa e punizione",
+        "optionB": "Riguarda l’uguaglianza tra le persone nella spartizione dei compiti",
+        "optionC": "Riguarda la disuguaglianza tra le persone nella spartizione dei compiti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+
+    {
+        "question": "Per Piaget, la reciprocità di fatto",
+        "optionA": "Consiste nel ricambiare quello che si è ricevuto",
+        "optionB": "Corrisponde alla regola di trattare gli altri come vorremmo essere trattati",
+        "optionC": "È il cardine della morale autonoma",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+
+    {
+        "question": "Secondo gli psicologi evoluzionistici, la reciprocità diretta compare",
+        "optionA": "Verso i 26 mesi",
+        "optionB": "Verso i 5 anni nel rapporto con i coetanei",
+        "optionC": "Verso i 7 anni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
     }
+
+
 
 ]
