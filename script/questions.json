@@ -1602,8 +1602,186 @@
         "optionE": "",
         "optionF": "",
         "correct": "optionB"
+    },
+    {
+        "question": "Il branching off è il processo per cui ",
+        "optionA": "I gemelli monozigoti hanno un’identità confusa",
+        "optionB": "Il bambino ad un certo punto smette di imitare il genitore",
+        "optionC": "I fratelli si sforzano di assumere identità diverse l’uno dall’altro",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo Burghardt, l’azione del bambino ",
+        "optionA": "Non è del tutto funzionale al contesto in cui appare ",
+        "optionB": "è del tutto funzionale al contesto in cui appare",
+        "optionC": "Ha inizio in presenza di disagio acuto o cronico",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La teoria dei sistemi ecologici è stata sviluppata da",
+        "optionA": "Urie Bronfenbrenner",
+        "optionB": "Kurt Lewin",
+        "optionC": "William James",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Si chiama deidentificazione il processo per cui",
+        "optionA": "gemelli monozigoti hanno un'identità confusa",
+        "optionB": "il bambino a un certo punto smette di imitare il genitore",
+        "optionC": "fratelli si sforzano di assumere identità diverse l'uno dall'altro",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La relazione con i nonni è particolarmente saliente",
+        "optionA": "nel primo anno di vita",
+        "optionB": "durante l'età prescolare",
+        "optionC": "dopo la pubertà",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "In quale tipo di relazioni possiamo distinguere strutture gerarchiche, affiliative e altruistiche?",
+        "optionA": "Le relazioni amicali diadiche",
+        "optionB": "Le relazioni madre-bambino",
+        "optionC": "Le relazioni di gruppo tra bambini",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La diade",
+        "optionA": "non consente la formazione di coalizioni",
+        "optionB": "consente la formazione di coalizioni",
+        "optionC": "consente la formazione di strutture al suo interno",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "I bambini di 4-5 anni",
+        "optionA": "differenziano i rapporti di amicizia da quelli tra semplici conoscenti",
+        "optionB": "non sono in grado di distinguere tra amicizia e altri rapporti",
+        "optionC": "differenziano l'amicizia dai rapporti di gruppo, ma non dalle conoscenze superficiali",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Il tipo di gioco in cui i bambini svolgono attività simili e si interessano al carattere comune dell'azione, ma senza che la partecipazione di ciascuno sia essenziale, è definito da Parten",
+        "optionA": "gioco parallelo",
+        "optionB": "gioco cooperativo",
+        "optionC": "gioco associativo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Dalle ricerche antropologiche effettuate sul gioco è emerso che",
+        "optionA": "il gioco è incoraggiato in qualunque società",
+        "optionB": "ci sono società in cui il gioco non è incoraggiato",
+        "optionC": "ci sono società in cui il gioco non esiste affatto",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo molti studiosi, il gioco è",
+        "optionA": "un insieme di azioni con importanti funzioni psicologiche",
+        "optionB": "una disposizione psicologica applicabile alle azioni più diverse",
+        "optionC": "una classe di azioni particolarmente divertenti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Nello studio sul comportamento sessuale di bambini e bambine emerge che, nella maggioranza dei casi,",
+        "optionA": "l'incidenza di comportamenti sessuali è maggiore a casa che all'asilo",
+        "optionB": "l'incidenza di comportamenti sessuali è maggiore all'asilo che a casa",
+        "optionC": "l'incidenza di comportamenti sessuali è la stessa a casa e all'asilo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "In quale ordine, secondo Kohlberg, si manifestano i processi che conducono alla costanza del genere?",
+        "optionA": "Identità o denominazione - stabilità - permanenza di genere",
+        "optionB": "Stabilità - identità o denominazione - permanenza di genere",
+        "optionC": "Permanenza - stabilità - identità o denominazione di genere",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La tipizzazione sessuale inizia",
+        "optionA": "nella prima infanzia",
+        "optionB": "nella media fanciullezza",
+        "optionC": "con la pubertà",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Le differenze tra i sessi in varie abilità sono",
+        "optionA": "di entità notevole ma emergono solo nei valori medi",
+        "optionB": "di modesta entità ed emergono solo nei valori medi",
+        "optionC": "di entità notevole ed emergono in ogni individuo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Le differenze tra maschi e femmine nel gioco",
+        "optionA": "si manifestano solo nella preferenza dei maschi per la lotta",
+        "optionB": "riguardano anche i temi dei giochi di fantasia",
+        "optionC": "esistevano un tempo ma sono praticamente scomparse dopo l'avvento della televisione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Freud, i bambini e le bambine di età prescolare concepiscono le differenze tra i sessi",
+        "optionA": "come \"somiglianza al padre\" o \"somiglianza alla madre\"",
+        "optionB": "come \"complesso di Edipo\" o \"complesso di Elettra\"",
+        "optionC": "come \"possesso del pene\" o \"mancanza del pene\"",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La sindrome di Turner è una alterazione cromosomica che determina spesso",
+        "optionA": "\"nelle femmine una personalità \"ultra-femminile\"\"",
+        "optionB": "nei maschi una personalità poco mascolina",
+        "optionC": "nel feto una sindrome androgenitale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
     }
-
-
 
 ]
