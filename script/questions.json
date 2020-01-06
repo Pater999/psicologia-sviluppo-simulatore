@@ -617,7 +617,7 @@
         "optionD": "",
         "optionE": "",
         "optionF": "",
-        "correct": "optionC"
+        "correct": "optionB"
     },
     {
         "question": "Il coinvolgimento di un oggetto negli scambi con un’altra persona segna una tappa importante dello sviluppo, quale? ",
@@ -677,7 +677,7 @@
         "optionD": "",
         "optionE": "",
         "optionF": "",
-        "correct": "optionA"
+        "correct": "optionB"
     },
     {
         "question": "Studi recenti mostrano che l’amnesia infantile dipende ",
@@ -1778,6 +1778,919 @@
         "optionA": "\"nelle femmine una personalità \"ultra-femminile\"\"",
         "optionB": "nei maschi una personalità poco mascolina",
         "optionC": "nel feto una sindrome androgenitale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+
+
+    {
+        "question": "Secondo Piaget, le operazioni logico-aritmetiche e quelle spazio-temporali",
+        "optionA": "Si sviluppano contemporaneamente e vengono padroneggiate entro la fine del periodo operatorio concreto",
+        "optionB": "Non si sviluppano contemporaneamente, ma vengono padroneggiate entro la fine del periodo operatorio concreto",
+        "optionC": "Si sviluppano contemporaneamente, ma solo le prime vengono padroneggiate entro la fine del periodo operatorio concreto",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per memoria di lavoro s’intende ",
+        "optionA": "La conservazione momentanea di informazioni provenienti dagli organi di senso o attivate dalla memoria a lungo termine",
+        "optionB": "La conservazione momentanea di informazioni provenienti dagli organi di senso o attivate dalla memoria a lungo termine, ma anche l’elaborazione di queste informazioni",
+        "optionC": "Solo l’elaborazione delle informazioni provenienti dagli organi di senso",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il test go-no-go consente di misurare ",
+        "optionA": "La flessibilità cognitiva",
+        "optionB": "Il controllo inibitorio",
+        "optionC": "La capacità di pianificazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Piaget, le operazioni logico-aritmetiche e spazio-temporali emergono",
+        "optionA": "durante lo stadio operatorio concreto",
+        "optionB": "durante lo stadio preoperatorio",
+        "optionC": "durante lo stadio operatorio formale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Le operazioni di classificazione e seriazione sono",
+        "optionA": "operazioni spazio-temporali",
+        "optionB": "operazioni logico-aritmetiche",
+        "optionC": "operazioni alla seconda potenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Piaget, le prime nozioni spaziali che il bambino si rappresenta riguardano",
+        "optionA": "le proprietà euclidee",
+        "optionB": "le relazioni proiettive",
+        "optionC": "i rapporti topologici",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Nel compito \"delle tre montagne\", i bambini si rendono conto che a cambiamenti nella posizione dell'osservatore corrispondono cambiamenti nei rapporti tra le tre montagne",
+        "optionA": "a partire dai 2 anni, con la comparsa della funzione simbolica",
+        "optionB": "a partire dai 7-8 anni, quando appare la capacità di rappresentarsi rapporti proiettivi",
+        "optionC": "a partire dagli 11-12 anni, con il raggiungimento del pensiero ipotetico-deduttivo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Nell'esperimento piagetiano sulle nozioni temporali, alla domanda: \"I due pupazzi hanno camminato per altrettanto tempo, o uno ha camminato per più tempo dell'altro?\" qual è la risposta più tipica prima dei 5 anni:",
+        "optionA": "\"ha camminato per più tempo quello che è andato più lontano\" (pur ammettendo che sono partiti e si sono fermati simultaneamente)",
+        "optionB": "\"Ha camminato per meno tempo quello che non è andato lontano\" (pur ammettendo che sono partiti e si sono fermati simultaneamente)",
+        "optionC": "\"Hanno camminato lo stesso tempo\" (basandosi sulla simultaneità delle partenze e degli arrivi)",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo Piaget, quale di queste spiegazioni delle relazioni di età tra la nonna e la mamma potrebbe essere data da un bambino di 4 anni e mezzo?",
+        "optionA": "\"Hanno la stessa età perché sono alte uguale\"",
+        "optionB": "\"La nonna è più vecchia perché è nata prima\"",
+        "optionC": "\"La mamma è più giovane perché è nata dopo\"",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Nella prova piagetiana di conservazione della sostanza, i bambini di 7-8 anni affermano che una pallina di plastilina schiacciata fino ad assumere la forma di una salsiccia",
+        "optionB": "ha più quantità di prima perché è divenuta più lunga",
+        "optionC": "ha meno quantità di prima perché è divenuta più sottile",
+        "optionD": "mantiene la stessa quantità perché non è stato tolto né aggiunto nulla",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Per \"décalage\" Piaget intende",
+        "optionA": "lo sfasamento temporale nell'applicazione di operazioni concrete a compiti diversi",
+        "optionB": "la diversa difficoltà di alcuni compiti, teoricamente risolvibili con operazioni concrete",
+        "optionC": "il diverso ritmo di sviluppo di ciascun bambino",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo Piaget, il limite del pensiero dei bambini in età scolare è che",
+        "optionA": "non sono in grado di utilizzare le operazioni mentali",
+        "optionB": "utilizzano le operazioni mentali solo difronte a materiali completi",
+        "optionC": "sanno effettuare solo operazioni mentali molto semplici",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il miglioramento con l'età nelle prove di memoria immediata derivano da un aumento della capacità del magazzino a breve termine",
+        "optionA": "strutturale, ma non funzionale",
+        "optionB": "funzionale ma non strutturale",
+        "optionC": "sia strutturale che funzionale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo gli studiosi della memoria, la reiterazione, l'organizzazione e l'elaborazione sono strategie per",
+        "optionA": "recuperare le informazioni",
+        "optionB": "immagazzinare le informazioni",
+        "optionC": "alterare le informazioni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo uno studio longitudinale di Carol Peterson e collaboratori, a distanza di pochi giorni da un evento traumatico loro accaduto (come una frattura o una ferita), i bambini di 2 anni",
+        "optionA": "non ricordano alcun elemento costitutivo dell'evento",
+        "optionB": "ricordano l'80% degli elementi costitutivi dell'evento",
+        "optionC": "ricordano circa metà degli elementi costitutivi dell'evento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Studi sulla metamemoria hanno dimostrato che i bambini di età prescolare",
+        "optionA": "sopravvalutano la propria memoria, e non riescono a liberarsi da questo errore",
+        "optionB": "inizialmente sottovalutano la propria memoria, ma con il tempo iniziano a sopravvalutarla",
+        "optionC": "inizialmente sopravvalutano la propria memoria, ma imparano facilemente ad autovalitarsi meglio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Tra conoscenza metacognitiva e prestazione",
+        "optionA": "c'è una correlazione positiva elevata",
+        "optionB": "c'è una correlazione positiva poco elevata",
+        "optionC": "c'è una correlazione negativa elevata",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Robbie Case, i bambini sono in grado di contare oggetti in ordine sparso",
+        "optionA": "tra i 2 e i 3 anni",
+        "optionB": "tra i 3 anni e mezzo e i 5 anni",
+        "optionC": "tra i 5 e i 7 anni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Un test per misurare l'intelligenza dei bambini è",
+        "optionA": "Wisc-R",
+        "optionB": "QI",
+        "optionC": "Strange situation",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "L'ingresso alla scuola elementare costituisce una transizione evolutiva importante",
+        "optionA": "per tutti gli aspetti dello sviluppo",
+        "optionB": "per lo sviluppo cognitivo",
+        "optionC": "per lo sviluppo sociale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo gli studiosi del disegno, le \"figure canoniche\" sono",
+        "optionA": "centrate sull'osservatore",
+        "optionB": "centrate sull'oggetto",
+        "optionC": "centrate sia sull'oggetto che sull'osservatore",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "\"L'approccio stadiale di Luquet, con il passaggio attraverso varie forme di \"realismo\", riguarda\"",
+        "optionA": "lo sviluppo del disegno",
+        "optionB": "lo sviluppo del linguaggio",
+        "optionC": "lo sviluppo dell'intelligenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo alcuni studiosi, lo sviluppo artistico segue",
+        "optionA": "una progressione verso un talento sempre maggiore",
+        "optionB": "un regresso inevitabile dalla prima fanciullezza in poi",
+        "optionC": "una curva a U dal diffuso talento dei bambini al talento maturo di alcuni adolescenti e giovani",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Per un bambino che entra nella scuola primaria, saper disegnare ordinatamente è",
+        "optionA": "una manifestazione di creatività",
+        "optionB": "un prerequisito per imparare a scrivere",
+        "optionC": "un fattore di distrazione dai compiti scolastici importanti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "I bambini di 10 anni credono che, disegnando, le caratteristiche interiori di una persona",
+        "optionA": "si possano raffigurare direttamente",
+        "optionB": "non si possano raffigurare in alcun modo",
+        "optionC": "si possano raffigurare metaforicamente",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Alla richiesta di scrivere parole o numeri, i bambini di 4-5 anni che ancora non vanno alla scuola primaria",
+        "optionA": "utilizzano segni differenziati allineati da sinistra a destra",
+        "optionB": "si rifiutano perché preferiscono disegnare",
+        "optionC": "eseguono solo scarabocchi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo Utah Frith, nell'apprendimento della lettura, si susseguono le seguenti strategie:",
+        "optionA": "prelessicale, lessicale, semantica",
+        "optionB": "idiosincratica, pittografica, convenzionale",
+        "optionC": "logografica, alfabetica, ortografica, lessicale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Le ricerche sulle concezioni astronomiche infantili hanno dimostrato che, a 6 anni, la rappresentazione prevalente della terra è",
+        "optionA": "una sfera cava",
+        "optionB": "un disco piatto",
+        "optionC": "una sfera",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Una teoria economica distinta dalla psicologia comincia a formarsi",
+        "optionA": "in età prescolare",
+        "optionB": "agli inizi della scuola elementare",
+        "optionC": "in adolescenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "La presa di coscienza delle proprie concezioni da parte degli alunni è favorita da",
+        "optionA": "libertà di esprimere ciò che pensano e discusisone in classe tra coetanei",
+        "optionB": "interazione diretta con l'insegnante e attività strutturate (interrogazioni, compiti, ecc.)",
+        "optionC": "studio autonomo (soprattutto a casa) e aiuto in famiglia",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "I bambini di età prescolare",
+        "optionA": "non distinguino i politici da altri personaggi importanti",
+        "optionB": "hanno l'idea di un tuolo politico caratterizzato dal comando",
+        "optionC": "riconoscono alcune figure politiche",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo Lewin, il clima della classe che maggiormente richiede la sorveglianza diretta dell'adulto è quello",
+        "optionA": "democratico",
+        "optionB": "permissivo",
+        "optionC": "autoritario",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "loro spiegazioni ingenue del funzionamento intellettivo, i bambini di età prescolare",
+        "optionA": "non differenziano tra capacità, sforzo e riuscita",
+        "optionB": "differenziano sforzo e risultato, ma pensano che vadano sempre di pari passo",
+        "optionC": "differenzinao sforzo e abilità, e considerano più intelligente chi raggiunge il miglior risultato con meno sforzo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "L'autostima globale può essere definita come",
+        "optionA": "la convinzione di essere in grado di produrre certe azioni",
+        "optionB": "la convizione relativa alla propria capacità di influenzare i risultati",
+        "optionC": "un sentimento complessivo di soddisfazione o insoddisfazione per ciò che si è",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Le reazioni di impotenza sono favorite da critiche rivolte",
+        "optionA": "alla persona",
+        "optionB": "all'impegno",
+        "optionC": "alla strategia usata",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Lo studio dello sviluppo sociale nella media fanciullezza si basa soprattutto",
+        "optionA": "su strumenti verbali, cui i bambini stessi rispondono",
+        "optionB": "su misure indirette, come questionari compilati dai genitori",
+        "optionC": "su osservazioni dirette del comportamento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Nella psicologia dello sviluppo, la nozione di competenza sociale",
+        "optionA": "è definita da un elenco di dieci componenti, da tutti condiviso",
+        "optionB": "è definita come capacità di stare con gli altri",
+        "optionC": "non ha una definizione universalmente accettata",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il principale fattore della popolarità è",
+        "optionA": "la comprensione",
+        "optionB": "lo status socioeconomico",
+        "optionC": "la competenza sociale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo Piaget, nella media fanciullezza i bambini",
+        "optionA": "considerano le regole dei giochi come inviolabili",
+        "optionB": "pensano che le regole dei giochi possano essere concordate",
+        "optionC": "sanno a malapena che in certi giochi vi sono delle regole",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Nello sviluppo delle abilità di role-taking descritte da Selman, i bambini tra i 6 e gli 8 anni si trovano",
+        "optionA": "nello stadio autoriflessivo",
+        "optionB": "nello stadio soggettivo",
+        "optionC": "nello stadio egocentrico",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Laursen e Hartup, gli scambi sociali direttamente osservabili tra le persone costituiscono",
+        "optionA": "la struttura profonda dell'amicizia che rimane stabile nel corso di vita",
+        "optionB": "la struttura manifesta dell'amicizia che cambia da una persona all'altra",
+        "optionC": "la struttura superficiale dell'amicizia che si modifica con lo sviluppo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Una delle funzioni dell'amicizia nella fanciullezza è",
+        "optionA": "facilitare lo sviluppo di strategie di soluzione dei conflitti",
+        "optionB": "evitare l'insorgere di conflitti tra i due partner",
+        "optionC": "creare le occasioni per delle \"sane litigate\"",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Il ruolo dell'ambiente nei comportamenti aggressivi è stato studiato soprattutto",
+        "optionA": "dai teorici dell'apprendimento",
+        "optionB": "dai sociobiologi",
+        "optionC": "dagli psicoanalisti",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Nel corso dell'infanzia e della prima fanciullezza, il desiderio di possesso è la ragione più comune di",
+        "optionA": "aggressione ostile",
+        "optionB": "aggressione reattiva",
+        "optionC": "aggressione strumentale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Gli interventi più efficaci di riduzione del bullismo a scuola sono quelli rivolti",
+        "optionA": "ai bulli",
+        "optionB": "alle vittime",
+        "optionC": "agli osservatori",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il termine \"competizione\" è sinonimo di",
+        "optionA": "comportamento agonistico",
+        "optionB": "conflitto interpersonale",
+        "optionC": "comportamento aggressivo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per \"ciclo di coercizione\" Patterson intende",
+        "optionA": "una serie di interazioni ricorrenti tra genitori e figli",
+        "optionB": "un processo di azioni e reazioni per cui i bambini imparano a disobbedire",
+        "optionC": "una sequenza di azioni educative con cui si costringono i figli ad obbedire",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Diana Baumrind, lo stile educativo più efficace a lungo termine è quello",
+        "optionA": "autoritario",
+        "optionB": "autorevole",
+        "optionC": "permissivo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Diana Baumrind, lo stile educativo più efficace a lungo termine è quello",
+        "optionA": "'insieme di funzioni (materiali, manageriali, educative, ecc.) svolte dai genitori",
+        "optionB": "l'attaccamento dei genitori ai figli",
+        "optionC": "lo stile educativo del genitore",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo alcune ricerche, per aumentare le tendenze aggressive nel 25% degli spettatori è sufficiente che questi ultimi siano esposti a programmi di una certa violenza",
+        "optionA": "per due ore",
+        "optionB": "per 15 minuti",
+        "optionC": "per un'ora",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Le abilità chiamate in causa per essere socialmente competenti sono",
+        "optionA": "cognitive, emotive, comunicative, relazioni",
+        "optionB": "cognitive, emotive, comunicative, empatiche",
+        "optionC": "cognitive, emotive, comunicative, legate alla moralità",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il gioco sociodrammatico nella media fanciullezza",
+        "optionA": "scompare del tutto",
+        "optionB": "viene affiancato dal gioco con regole",
+        "optionC": "scompae per poi riapparire alle soglie dell'adolescenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Quali sono i fattori in grado di promuovere azioni di difesa delle vittime di bullismo?",
+        "optionA": "empatia e role-taking",
+        "optionB": "senso di responsabilità ed adeguate strategie di problem solving sociale",
+        "optionC": "sensibilità e simpatia",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo Laursen e Hartup, gli scambi sociali direttamente osservabili tra le persone costituiscono",
+        "optionA": "la struttura profonda dell'amicizia che rimane stabile nel corso della vita",
+        "optionB": "la struttura manifesta dell'amicizia che cambia da una persona all'altra",
+        "optionC": "la struttura superficiale dell'amicizia che si modifica con lo sviluppo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il parenting positivo riguarda",
+        "optionA": "lo stile educativo",
+        "optionB": "l'attaccamento",
+        "optionC": "i modi di agire più raccomandabili ai genitori",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "L'obiettivo del \"time-out\" è",
+        "optionA": "punire il bambino",
+        "optionB": "interrompere l'azione inopportuna del bambino",
+        "optionC": "fornire un feedback verbale negativo al bambino",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Nelle famiglie con genitori maltrattanti, i bambini iniziano a manifestare emozioni quali tristessa, rabbia e paura",
+        "optionA": "intorno ai 3 mesi",
+        "optionB": "intorno ai 7-9 mesi",
+        "optionC": "intorno ai 6 mesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Sotto i due anni di età, l'uso di strumenti audio-visivi",
+        "optionA": "ha effetti positivi quando si tratta di programmi educativi",
+        "optionB": "non ha effetti positivi quando si tratta di programmi educativi",
+        "optionC": "ha sempre effetti negativi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Per la maggior parte delle persone l'adolescenza è",
+        "optionA": "un periodo critico con cambiamenti ma anche con elementi di continuità",
+        "optionB": "un periodo di crisi tumultuosa",
+        "optionC": "un periodo negativo di disorientamento e cambiamento",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo Grotevant, la pubertà può essere considerata",
+        "optionA": "un contesto dello sviluppo adolescenziale",
+        "optionB": "un cambiamento primario che contraddistingue l'adolescenza",
+        "optionC": "un elemento di continuità tra fanciullezza e adolescenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "La maturazione puberale presenta tra maschi e femmine",
+        "optionA": "una leggera asincronia",
+        "optionB": "una considerevole sincronia",
+        "optionC": "una notevole asincronia",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+
+    {
+        "question": "Conoscere l'importanza di uno stile di vita salutare",
+        "optionA": "proteggere le adolescenti dai rischi di un'alimentazione disturbata",
+        "optionB": "non proteggere le adolescenti dai rischi di un'alimentazione disturbata",
+        "optionC": "proteggere da un'alimentazione disturbata solo le più giovani",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+
+    {
+        "question": "Una delle conseguenza della pubertà precoce è",
+        "optionA": "il mancato raggiungimento della statura-bersaglio",
+        "optionB": "il raggiungimento più tempestivo della statura-bersaglio",
+        "optionC": "il raggiungimento più tardivo della statura-bersaglio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "L'educazione sessuale nella scuola media inferiore ha come risultato",
+        "optionA": "disinteresse da parte dei giovani",
+        "optionB": "l'incoraggiamento ad attività sessuali precoci",
+        "optionC": "una dilazione dei primi rapporti completi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo gli studi sugli adolescenti italiani la maggioranza dei ragazzi e delle ragazze dimostrano",
+        "optionA": "una percezione conflittuale del proprio corpo",
+        "optionB": "una percezione negativa del proprio corpo",
+        "optionC": "una percezione positiva del proprio corpo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Secondo gli studi di Steinberg, durante l'adolescenza il fattore che più incidono sulla tendenza ad azioni rischiose è",
+        "optionA": "il cambiamento ormonale legato alla maturazione puberale",
+        "optionB": "li sviluppo nei recettori della dopamina",
+        "optionC": "\"la comparsa del pensiero ipotetico-deduttiva e \"fiaba personale\"\"",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il pensiero ipotetico-deduttivo è",
+        "optionA": "sufficiente per individuare le possibili spiegazioni di un certo evento",
+        "optionB": "necessario per poter verifivare delle ipotesi",
+        "optionC": "insufficiente per dedurre logicamente le conseguenze che derivano da un'ipotesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Piaget chiama interproposizionali le operazioni con cui l'adolescente riesce a",
+        "optionA": "collegare più proposizioni o a ragionare su operazioni complesse",
+        "optionB": "utilizzare analogie e proporzioni",
+        "optionC": "costruire correttamente e verificare il contenuto di singole proposizioni",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Nel problema del pendolo proposto da Piaget, i bambini di 7-8 anni",
+        "optionA": "considerano solo la propria azione",
+        "optionB": "sono convinti che peso e altezza abbiano qualche effetto",
+        "optionC": "formulano e sperimentano varie ipotesi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Recenti ricerche sul pensiero operatorio formale hanno mostrato che",
+        "optionA": "le abilità a esso sottese vengono acquisite senza bisogno di istruzioni",
+        "optionB": "esso non sottende specifiche abilità, ma solo nozioni specifiche",
+        "optionC": "alcune abilità a esso sottese richiedono una specifica istruzione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "La capacità di riflettere sul proprio pensiero ( \"pensiero alla seconda potenza\" nella terminologia piagetiana; \"metacognizione\" nella terminologia attuale)",
+        "optionA": "si è confermata come una capacità che cresce notevolmente dopo gli 11 anni",
+        "optionB": "si è dimostrata una capacità molto più precoce di quanto riteneva Piaget",
+        "optionC": "è stata poco studiata dopo Piager, in quanto poco importante",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Gli studi di Kohlberg riguardano",
+        "optionA": "il comportamento antisociale",
+        "optionB": "il giudizio morale",
+        "optionC": "il comportamento prosociale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo gli studiosi delle credenze epistemologiche, molti adolescenti e adulti",
+        "optionA": "ritengono che la conoscenza si una copia della realtà o che tutte le opinioni siano valide",
+        "optionB": "comprendono che vi sono dei criteri per identificare le opinioni più valide",
+        "optionC": "non hanno alcuna idea né alcun interesse sulla natura della conoscenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Lo stress, quando elevato, comporta",
+        "optionA": "un ritardo della pubertà",
+        "optionB": "un'anticipazione della pubertà",
+        "optionC": "nessun cambiamento nel presentarsi della pubertà",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per \"deidealizzazione\" si intende",
+        "optionA": "il desiderio dei secondogeniti di differenziarsi il più possibile dal fratello o sorella maggiore",
+        "optionB": "la delusione dei giovani nei confronti della politica",
+        "optionC": "",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Il termine \"marginalità sociale\" indica",
+        "optionA": "una condizione di isolamento sociale",
+        "optionB": "una condizione di rifiuto sociale",
+        "optionC": "una condizione di incertezza sulla propria identità sociale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "I gruppi più tipici e più diffusi in adolescenza sono",
+        "optionA": "i gruppi formali",
+        "optionB": "i gruppi informali",
+        "optionC": "i gruppi politici",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Nell'adolescenza i gruppi di soli ragazzi o ragazze",
+        "optionA": "si formano contemporaneamente a gruppi misti per genere",
+        "optionB": "precedono quelli misti per genere",
+        "optionC": "si formano dopo quelli misti per genere",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Per favoritismo si intende",
+        "optionA": "la tendenza a considerare il proprio gruppo come il migliore tra tutti",
+        "optionB": "la predisposizione al conformismo di gruppo",
+        "optionC": "l'appartenenza a gruppi di coetanei",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Per l'adolescente, una delle funzioni dell'amico è paragonabile a quella di",
+        "optionA": "un diario",
+        "optionB": "un genitore",
+        "optionC": "uno specchio",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Quali soggetti rischiano maggiormente di intraprendere una \"carriera criminale\"?",
+        "optionA": "i maschi che mettono in atto comportamenti antisociali precoci",
+        "optionB": "tutti i maschi",
+        "optionC": "le adolescenti che agiscono in modo antisociale",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo Emler e Reicher, alcuni adolescenti compiono azioni antisociali perché",
+        "optionA": "sono inevitabilmente indirizzati in tal senso da situazioni sociali sfavorevoli",
+        "optionB": "seguon una motivazione transitoria",
+        "optionC": "l'identità delinquenziale è per essi un'alternativa attraente",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Uno studio di Ardone evidenzia che tra disimpegno morale e coesione familiare",
+        "optionA": "c'è una correlazione positiva",
+        "optionB": "c'è una correlazione negativa",
+        "optionC": "non c'è una correlazione",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Secondo uno studio di Pastorelli e colleghi, un ambiente permeato da una cultura criminale",
+        "optionA": "induce al disimpegno morale solo i soggetti predisposti alla violenza",
+        "optionB": "induce al disimpegno morale anche soggetti non predisposti alla violenza",
+        "optionC": "protegge dal disimpegno morale, come reazione verso la violenza",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Il primo stadio individuato da Erikson è caratterizzato dal tema della",
+        "optionA": "fiducia",
+        "optionB": "autonomia",
+        "optionC": "iniziativa",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Erik Erikson si è occupato",
+        "optionA": "dello sviluppo psicosociale",
+        "optionB": "dell'attaccamento",
+        "optionC": "dello sviluppo cognitivo",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "Secondo Carol Gilligan, la moralità femminile è",
+        "optionA": "orientata alla difesa della giustizia",
+        "optionB": "inferiore a quella maschile",
+        "optionC": "orientata alla salvaguardia delle relazioni interpersonali",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionC"
+    },
+    {
+        "question": "Negli studi sull'impegno politico degli adolescenti sono stati distinti i seguenti tipi",
+        "optionA": "attivisti razionali, attivisti passionali, spettatori e cittadini mobilitabili",
+        "optionB": "attivisti razionali, spettatori, cittadini passivi e cittadini mobilitabili",
+        "optionC": "attivisti, spettatori razioni, spettatori passionali e cittadini passivi",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "In adolescenza, hanno un maggiore successo scolastico i ragazzi",
+        "optionA": "con prospettiva temporale ampia e chiara, perché tengono ben presente la relazione tra impegno quotidiano e prove finali",
+        "optionB": "con prospettiva temporale chiara e circoscritta, perché si concentrano sull'impegno presente",
+        "optionC": "con prospettiva temporale ampia, anche se nebulosa, perché non riescono a porsi mete più impegnative e idealistiche",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionA"
+    },
+    {
+        "question": "La marginalità psicologica volontaria è",
+        "optionA": "il desiderio di stare soli degli adolescenti",
+        "optionB": "il periodo in cui l'adolescente attraversa, più volte, i confini di uno spazio di vita fino af allora centrale (famiglia)",
+        "optionC": "l'allontanamento da casa dell'adolescente",
+        "optionD": "",
+        "optionE": "",
+        "optionF": "",
+        "correct": "optionB"
+    },
+    {
+        "question": "Nel costruirsi della prospettiva temporale conta",
+        "optionA": "la qualità del sostegno familiare",
+        "optionB": "solo il sostegno dei pari",
+        "optionC": "la scuola",
         "optionD": "",
         "optionE": "",
         "optionF": "",
