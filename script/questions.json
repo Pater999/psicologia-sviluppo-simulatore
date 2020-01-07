@@ -827,7 +827,7 @@
         "optionD": "",
         "optionE": "",
         "optionF": "",
-        "correct": ""
+        "correct": "optionA"
     },
     {
         "question": "Due dei criteri che permettono di considerare una caratteristica come \"temperamentale\" sono",
@@ -1877,11 +1877,12 @@
     },
     {
         "question": "Nella prova piagetiana di conservazione della sostanza, i bambini di 7-8 anni affermano che una pallina di plastilina schiacciata fino ad assumere la forma di una salsiccia",
-        "optionB": "ha più quantità di prima perché è divenuta più lunga",
-        "optionC": "ha meno quantità di prima perché è divenuta più sottile",
-        "optionD": "mantiene la stessa quantità perché non è stato tolto né aggiunto nulla",
+        "optionA": "ha più quantità di prima perché è divenuta più lunga",
+        "optionB": "ha meno quantità di prima perché è divenuta più sottile",
+        "optionC": "mantiene la stessa quantità perché non è stato tolto né aggiunto nulla",
+        "optionD": "",
         "optionE": "",
-        "optionF": "",
+		"optionF": "",
         "correct": "optionC"
     },
     {
@@ -1995,14 +1996,14 @@
         "correct": "optionB"
     },
     {
-        "question": "\"L'approccio stadiale di Luquet, con il passaggio attraverso varie forme di \"realismo\", riguarda\"",
+        "question": "L'approccio stadiale di Luquet, con il passaggio attraverso varie forme di \"realismo\", riguarda",
         "optionA": "lo sviluppo del disegno",
         "optionB": "lo sviluppo del linguaggio",
         "optionC": "lo sviluppo dell'intelligenza",
         "optionD": "",
         "optionE": "",
         "optionF": "",
-        "correct": "optionB"
+        "correct": "optionA"
     },
     {
         "question": "Secondo alcuni studiosi, lo sviluppo artistico segue",
